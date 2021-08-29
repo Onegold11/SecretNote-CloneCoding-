@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SecretNote</string>
+    <string name="str_password_title">The Secret Note</string>
 </resources>
